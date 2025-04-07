@@ -27,10 +27,10 @@ npm run dev
 ```
 
 L'application sera disponible sur `http://localhost:3000`
-
+Le swagger est disponible ici `http://localhost:3002/api-docs/#/Auth`
 ## 📚 Documentation
 
-La documentation complète de l'API est disponible dans le dossier [docs](./docs).
+La documentation complète de l'API est disponible dans le dossier [docs](./docs). 
 
 ## 🎥 Démonstration
 
