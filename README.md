@@ -1,6 +1,7 @@
 # Spotifake
 
 Une application de streaming musical inspirée de Spotify.
+https://media.discordapp.net/attachments/1299032277996535829/1358778410620682424/image.png?ex=67f51481&is=67f3c301&hm=03281e6aa7a03d8a538e72b8754229dbb7b60b4f63b5996802663a33d6b2a555&=&format=webp&quality=lossless&width=1596&height=800
 
 ## 🚀 Installation
 
